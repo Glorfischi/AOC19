@@ -3,7 +3,7 @@ package day2
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test as test
 
-class Day1Test {
+class Day2Test {
     @test
     fun testProgramm() {
         var c: List<Int> = listOf<Int>(99, 0, 0, 0, 99)
